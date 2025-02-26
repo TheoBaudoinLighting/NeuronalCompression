@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Custom
+*.vs
+*.pgm
+*.pdb
+*.json
+
+NeuronalCompression/x64/*
